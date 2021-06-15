@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">recipes.</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="difficulty">Difficulty:</string>
+    <string name="download_image">Download Image</string>
+    <string name="similar">Similar:</string>
+    <string name="recipe_image">Recipe image</string>
+    <string name="instructions">Instructions:</string>
+    <string name="description">Description:</string>
+    <string name="go_back">Go back</string>
+    <string name="save_image">Save image</string>
+    <string name="no_permission_message">Permission needed! Allow it in settings.</string>
+    <string name="saved_message">Saved at %s</string>
+    <string-array name="recipes_sorts">
+        <item>Sort by name</item>
+        <item>Sort by date</item>
+    </string-array>
+</resources>
